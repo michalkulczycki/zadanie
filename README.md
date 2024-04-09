@@ -7,3 +7,4 @@ hello github
 # zadanie_git
 # homework_git_2
 # homework_git_2
+# zadanie
