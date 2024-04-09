@@ -4,3 +4,4 @@ hello github
 # git_zad
 # git1_zad
 # git1_zad
+# zadanie_git
