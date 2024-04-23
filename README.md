@@ -5,7 +5,5 @@ hello github
 # git1_zad
 # git1_zad
 # zadanie_git
-# homework_git_2
-# zadanie
-# zadanie
+# homework_gi
 # zadanie
